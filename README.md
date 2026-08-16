@@ -10,7 +10,7 @@ This repository contains R code used to develop analyses and publication-quality
 
 This repository contains the report and analysis associated with:
 
-**Takekawa, J. Y., Prosser, D. J., Yin, S., Batbayar, N., Kumar, S., & Ma, Z. (2026). Global change and threats to waterbirds in the Asian flyways. _Avian Research_, Article 100409.**
+**Takekawa, J. Y., Prosser, D. J., Yin, S., Batbayar, N., Kumar, S., & Ma, Z. (2026). Global change and threats to waterbirds in the Asian flyways. _Avian Research_.**
 
 **DOI:** [10.1016/j.avrs.2026.100409](https://doi.org/10.1016/j.avrs.2026.100409)  
 **Journal:** _Avian Research_  
